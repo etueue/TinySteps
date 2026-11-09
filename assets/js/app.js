@@ -127,13 +127,13 @@ function renderProducts() {
   const filtered = getFilteredProducts();
 
   if (productCountEl) {
-    productCountEl.innerHTML = `<span style="display:inline-block; margin-right:4px;">✨</span> ${filtered.length} cheerful toys ready to play`;
+    productCountEl.innerHTML = ` ${filtered.length} cheerful toys ready to play`;
   }
 
   if (filtered.length === 0) {
     productsContainer.innerHTML = `
       <div class="empty-state" style="grid-column: 1 / -1; text-align: center; padding: 60px 20px; background: white; border-radius: 20px; border: 1px dashed rgba(255,107,129,0.3);">
-        <div style="font-size: 42px; margin-bottom: 12px;">🧸🎈</div>
+        <div style="width: 56px; height: 56px; border-radius: 50%; background: #FFF0F2; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px; color: #FF6B81;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div>
         <h3 style="font-size: 20px; margin-bottom: 8px; color: #2D3142;">No toys found</h3>
         <p style="color: #6B7280; font-size: 14px;">Try searching for friendly terms like "wooden", "blocks", or "sensory".</p>
       </div>
@@ -148,8 +148,8 @@ function renderProducts() {
       return `
       <article class="product-card" data-id="${product.id}" style="border-radius: 20px; overflow: hidden; background: white; border: 1.5px solid rgba(255, 107, 129, 0.12); box-shadow: 0 4px 18px rgba(255, 107, 129, 0.05); transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);">
         <div class="card-media" style="position: relative; height: 230px; background: #FFFDF9; display: flex; align-items: center; justify-content: center; overflow: hidden; padding: 16px;">
-          ${product.badge ? `<span class="card-badge" style="position: absolute; top: 12px; left: 12px; background: #FFF0F2; color: #E53E3E; border: 1px solid #FED7D7; font-weight: 800; font-size: 11px; padding: 4px 10px; border-radius: 9999px; letter-spacing: 0.02em; z-index: 2;">⭐ ${product.badge}</span>` : ""}
-          <span class="card-age-tag" style="position: absolute; top: 12px; right: 12px; background: #EBF8FF; color: #2B6CB0; border: 1px solid #BEE3F8; font-weight: 700; font-size: 11px; padding: 4px 10px; border-radius: 9999px; z-index: 2;">👶 ${product.ageGroup || "All Ages"}</span>
+          ${product.badge ? `<span class="card-badge" style="position: absolute; top: 12px; left: 12px; background: #FFF0F2; color: #E53E3E; border: 1px solid #FED7D7; font-weight: 800; font-size: 11px; padding: 4px 10px; border-radius: 9999px; letter-spacing: 0.02em; z-index: 2;">${product.badge}</span>` : ""}
+          <span class="card-age-tag" style="position: absolute; top: 12px; right: 12px; background: #EBF8FF; color: #2B6CB0; border: 1px solid #BEE3F8; font-weight: 700; font-size: 11px; padding: 4px 10px; border-radius: 9999px; z-index: 2;">${product.ageGroup || "All Ages"}</span>
           <img 
             src="${product.image}" 
             alt="${product.title}" 
@@ -207,8 +207,8 @@ function openQuickView(productId) {
         </div>
         <div class="modal-info">
           <div class="modal-badge-row" style="display: flex; gap: 8px; align-items: center; margin-bottom: 12px; flex-wrap: wrap;">
-            <span class="card-badge" style="background: #FFF0F2; color: #E53E3E; border: 1px solid #FED7D7; font-weight: 800; font-size: 11px; padding: 3px 10px; border-radius: 9999px;">⭐ ${product.badge || 'Curated'}</span>
-            <span class="card-age-tag" style="background: #EBF8FF; color: #2B6CB0; border: 1px solid #BEE3F8; font-weight: 700; font-size: 11px; padding: 3px 10px; border-radius: 9999px;">👶 ${product.ageGroup}</span>
+            <span class="card-badge" style="background: #FFF0F2; color: #E53E3E; border: 1px solid #FED7D7; font-weight: 800; font-size: 11px; padding: 3px 10px; border-radius: 9999px;">${product.badge || 'Curated'}</span>
+            <span class="card-age-tag" style="background: #EBF8FF; color: #2B6CB0; border: 1px solid #BEE3F8; font-weight: 700; font-size: 11px; padding: 3px 10px; border-radius: 9999px;">${product.ageGroup}</span>
             <span style="${catStyle} font-size: 11px; font-weight:700; padding: 3px 10px; border-radius: 8px;">${product.categoryLabel}</span>
           </div>
 
@@ -222,7 +222,7 @@ function openQuickView(productId) {
           <p class="modal-desc" style="font-size: 14.5px; color: #5C677D; line-height: 1.6; margin-bottom: 20px;">${product.description}</p>
 
           <div class="modal-benefits" style="background: #FFF8F5; border-radius: 12px; padding: 16px; border: 1px solid rgba(255,107,129,0.15); margin-bottom: 20px;">
-            <h4 style="font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; color: #FF6B81; margin-bottom: 10px;">🌟 Child Development Highlights</h4>
+            <h4 style="font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; color: #FF6B81; margin-bottom: 10px;">Child Development Highlights</h4>
             <ul style="padding-left: 18px; font-size: 13px; color: #5C677D; line-height: 1.6;">
               ${product.bullets.map(b => `<li style="margin-bottom: 6px;">${b}</li>`).join('')}
             </ul>
