@@ -1,279 +1,288 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Curated Playroom &amp; Educational Toy Guides | TinySteps Magazine</title>
-  <meta name="description"
-    content="Explore in-depth tested buyer guides, Montessori toy rankings, and screen-free STEM building sets curated by TinySteps.">
 
-  <link rel="stylesheet" href="../assets/css/style.css?v=20261108a">
-  <link rel="stylesheet" href="../assets/css/article.css?v=20261108a">
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Curated Home & Kitchen Guides | TinySteps Magazine</title>
+
+  <meta name="description" content="Explore in-depth tested buyer guides, aesthetic kitchen rankings, and space-saving home organizers curated by TinySteps.">
+
+  <link rel="stylesheet" href="../assets/css/style.css">
+
+  <link rel="stylesheet" href="../assets/css/article.css">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
-    rel="stylesheet">
 
-  <link rel="icon"
-    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='28' fill='%23FF6B81'/><circle cx='26' cy='26' r='8' fill='%23FFD166'/><circle cx='74' cy='26' r='8' fill='%234EA8DE'/><circle cx='74' cy='74' r='8' fill='%2306D6A0'/><text x='50%' y='68%' font-family='sans-serif' font-weight='900' font-size='50' fill='white' text-anchor='middle'>T</text></svg>">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@600;700&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 
   <style>
-    body {
-      background-color: #FFFDF9;
-      color: #2D3142;
-    }
 
-    .brand-logo {
-      font-family: 'Fredoka', 'Plus Jakarta Sans', sans-serif;
-      font-size: 24px;
-      font-weight: 700;
-      color: #2D3142;
-      text-decoration: none;
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-    }
+    .blog-portal-container { max-width: 980px; margin: 0 auto; padding: 40px 20px 80px; }
 
-    .brand-logo .dot {
-      color: #FF6B81;
-      font-size: 30px;
-      line-height: 0;
-    }
+    .blog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 36px; }
 
-    .brand-tag {
-      background: linear-gradient(135deg, #FFE8EC 0%, #FFF3EB 100%);
-      color: #FF6B81;
-      font-size: 11px;
-      font-weight: 700;
-      padding: 3px 10px;
-      border-radius: 9999px;
-      border: 1px solid rgba(255, 107, 129, 0.2);
-      margin-left: 6px;
-    }
+    .blog-preview-card { background: white; border: 1px solid rgba(0,0,0,0.08); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; transition: all 0.2s; }
 
-    .blog-portal-container {
-      max-width: 980px;
-      margin: 0 auto;
-      padding: 40px 20px 80px;
-    }
+    .blog-preview-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.06); }
 
-    .blog-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 30px;
-      margin-top: 36px;
-    }
+    .blog-card-img { height: 200px; background: #FAF8F5; overflow: hidden; }
 
-    .blog-preview-card {
-      background: white;
-      border: 1.5px solid rgba(255, 107, 129, 0.14);
-      border-radius: 20px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      transition: all 0.3s ease;
-      box-shadow: 0 4px 16px rgba(255, 107, 129, 0.05);
-    }
+    .blog-card-img img { width: 100%; height: 100%; object-fit: contain; padding: 15px; }
 
-    .blog-preview-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 12px 28px rgba(255, 107, 129, 0.12);
-    }
+    .blog-card-content { padding: 22px; display: flex; flex-direction: column; flex-grow: 1; }
 
-    .blog-card-img {
-      height: 220px;
-      background: #FFFDF9;
-      overflow: hidden;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 16px;
-    }
+    .blog-card-kicker { display: flex; gap: 10px; font-size: 11px; font-weight: 700; margin-bottom: 10px; }
 
-    .blog-card-img img {
-      max-height: 100%;
-      max-width: 100%;
-      object-fit: contain;
-    }
+    .blog-card-title { font-family: 'Newsreader', serif; font-size: 20px; line-height: 1.3; margin-bottom: 8px; }
 
-    .blog-card-content {
-      padding: 22px;
-      display: flex;
-      flex-direction: column;
-      flex-grow: 1;
-    }
+    .blog-card-title a { color: #1A1816; text-decoration: none; }
 
-    .blog-card-kicker {
-      display: flex;
-      gap: 10px;
-      font-size: 11px;
-      font-weight: 700;
-      margin-bottom: 10px;
-    }
+    .blog-card-title a:hover { color: #2E6A55; }
 
-    .kicker-tag {
-      color: #FF6B81;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
+    .blog-card-desc { font-size: 13.5px; color: #5C554E; line-height: 1.6; margin-bottom: 16px; flex-grow: 1; }
 
-    .kicker-date {
-      color: #94A3B8;
-    }
+    .blog-card-cta { font-size: 13px; font-weight: 700; color: #2E6A55; text-decoration: none; }
 
-    .blog-card-title {
-      font-family: 'Fredoka', 'Plus Jakarta Sans', sans-serif;
-      font-size: 20px;
-      line-height: 1.35;
-      margin-bottom: 8px;
-    }
-
-    .blog-card-title a {
-      color: #2D3142;
-      text-decoration: none;
-    }
-
-    .blog-card-title a:hover {
-      color: #FF6B81;
-    }
-
-    .blog-card-desc {
-      font-size: 13.5px;
-      color: #5C677D;
-      line-height: 1.6;
-      margin-bottom: 16px;
-      flex-grow: 1;
-    }
-
-    .blog-card-cta {
-      font-size: 13.5px;
-      font-weight: 800;
-      color: #FF6B81;
-      text-decoration: none;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .blog-card-cta:hover {
-      color: #E53E3E;
-      text-decoration: underline;
-    }
   </style>
+
 </head>
 
 <body class="article-page">
 
-  <header class="navbar article-navbar" style="background: rgba(255, 253, 249, 0.95); backdrop-filter: blur(10px); border-bottom: 1.5px solid rgba(255, 107, 129, 0.12);">
+  <header class="navbar article-navbar">
+
     <div class="nav-container">
+
       <a href="/" class="brand-logo">
+
         <span>TinySteps</span><span class="dot">.</span>
+
         <span class="brand-tag">Magazine</span>
+
       </a>
 
       <div class="nav-links">
+
         <a href="/" class="nav-link">Home Catalog</a>
+
         <a href="/blog/" class="nav-link active">Curated Guides</a>
+
       </div>
 
-      <a href="https://www.pinterest.com/tinystepskids/" target="_blank" rel="noopener" class="btn-pinterest-header" style="background: #E60023; color: white; padding: 8px 16px; border-radius: 9999px; font-size: 13px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor">
-          <path
-            d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345-.09.375-.291 1.199-.334 1.357-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z" />
-        </svg>
-        <span>Pinterest</span>
+      <a href="https://www.pinterest.com/tinystepsliving/" target="_blank" rel="noopener" class="btn-pinterest-header">
+
+        <span>Follow on Pinterest</span>
+
       </a>
+
     </div>
+
   </header>
 
+
+
   <main class="blog-portal-container">
+
     <div class="article-kicker">
+
       <span class="kicker-tag">TINYSTEPS MAGAZINE</span>
-      <span class="kicker-date">• CURATED BUYER GUIDES</span>
+
+      <span>CURATED BUYER GUIDES</span>
+
     </div>
 
-    <h1 class="article-title" style="font-family: 'Fredoka', 'Plus Jakarta Sans', sans-serif; font-size: 34px; margin-top: 10px; margin-bottom: 12px; color: #2D3142;">
-      Tested, Curated &amp; Ranked Educational Toy Guides
-    </h1>
+    <h1 class="article-title">Tested, Curated & Ranked Home Guides</h1>
 
-    <p class="article-subtitle" style="font-size: 16px; color: #5C677D; max-width: 720px; line-height: 1.6;">
-      Independent buyer guides comparing child development milestones, safety testing, and tactile durability to help mindful parents choose screen-free toys that truly spark joy.
-    </p>
+    <p class="article-subtitle">Independent buying guides designed to help you discover viral, top-rated aesthetic home and kitchen essentials with zero fluff.</p>
+
+
 
     <div class="blog-grid">
-      <!-- Guide Card 1 -->
-      <article class="blog-preview-card">
-        <div class="blog-card-img">
-          <img src="https://m.media-amazon.com/images/I/718mXgD3p-L._AC_SL1500_.jpg" alt="10 Best Montessori Toys for Toddlers in 2026" loading="lazy">
-        </div>
-        <div class="blog-card-content">
-          <div class="blog-card-kicker">
-            <span class="kicker-tag">Montessori Living</span>
-            <span class="kicker-date">November 09, 2026</span>
-          </div>
-          <h2 class="blog-card-title">
-            <a href="/blog/10-best-montessori-toys-for-toddlers-2026/">10 Best Montessori Toys for Toddlers That Encourage Independent Play</a>
-          </h2>
-          <p class="blog-card-desc">Skip the plastic noise and blinking screens. These heirloom-worthy wooden essentials encourage deep focus, fine motor control, and self-directed problem solving...</p>
-          <a href="/blog/10-best-montessori-toys-for-toddlers-2026/" class="blog-card-cta">Read Tested Buyer's Guide &rarr;</a>
-        </div>
-      </article>
 
-      <!-- Guide Card 2 -->
-      <article class="blog-preview-card">
-        <div class="blog-card-img">
-          <img src="https://m.media-amazon.com/images/I/81k7RzN394L._AC_SL1500_.jpg" alt="10 Top STEM & Magnetic Building Sets for Curious Little Engineers" loading="lazy">
-        </div>
-        <div class="blog-card-content">
-          <div class="blog-card-kicker">
-            <span class="kicker-tag" style="color: #0288D1;">STEM &amp; Learning</span>
-            <span class="kicker-date">November 09, 2026</span>
-          </div>
-          <h2 class="blog-card-title">
-            <a href="/blog/10-best-stem-building-toys-for-preschoolers-2026/">10 Top STEM &amp; Magnetic Building Sets for Curious Little Engineers</a>
-          </h2>
-          <p class="blog-card-desc">Unlock 3D spatial geometry, structural balance, and screen-free collaborative engineering with top-rated magnetic tiles and architectural blocks...</p>
-          <a href="/blog/10-best-stem-building-toys-for-preschoolers-2026/" class="blog-card-cta">Read Tested Buyer's Guide &rarr;</a>
-        </div>
-      </article>
+      
 
-      <!-- Guide Card 3 -->
-      <article class="blog-preview-card">
-        <div class="blog-card-img">
-          <img src="https://m.media-amazon.com/images/I/71Yy8vRrkZL._AC_SL1500_.jpg" alt="Wooden Sensory Toys for Early Development" loading="lazy">
-        </div>
-        <div class="blog-card-content">
-          <div class="blog-card-kicker">
-            <span class="kicker-tag" style="color: #7B1FA2;">Sensory Milestones</span>
-            <span class="kicker-date">November 09, 2026</span>
+        <article class="blog-preview-card">
+
+          <div class="blog-card-img">
+
+            <img src="https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800&q=80" alt="10 Durable Wooden Montessori Toys for Toddlers That Last" loading="lazy">
+
           </div>
-          <h2 class="blog-card-title">
-            <a href="/blog/best-wooden-sensory-toys-for-early-development/">The Definitive Guide to Wooden Sensory Toys for Early Development</a>
-          </h2>
-          <p class="blog-card-desc">How tactile grain, natural weight, and open-ended design support emotional regulation and pincer grasp milestones...</p>
-          <a href="/blog/best-wooden-sensory-toys-for-early-development/" class="blog-card-cta">Read Tested Buyer's Guide &rarr;</a>
-        </div>
-      </article>
+
+          <div class="blog-card-content">
+
+            <div class="blog-card-kicker">
+
+              <span class="kicker-tag">Montessori Wood</span>
+
+              <span class="kicker-date">November 11, 2026</span>
+
+            </div>
+
+            <h2 class="blog-card-title">
+
+              <a href="/blog/best-wooden-montessori-toys-1-year-old/">10 Durable Wooden Montessori Toys for Toddlers That Last</a>
+
+            </h2>
+
+            <p class="blog-card-desc">Mindfully curated wooden play essentials designed to foster independence while keeping your home clutter-free....</p>
+
+            <a href="/blog/best-wooden-montessori-toys-1-year-old/" class="blog-card-cta">Read Guide →</a>
+
+          </div>
+
+        </article>
+
+        
+
+        <article class="blog-preview-card">
+
+          <div class="blog-card-img">
+
+            <img src="https://m.media-amazon.com/images/I/718mXgD3p-L._AC_SL1500_.jpg" alt="10 Best Montessori Toys for Toddlers That Encourage Independent Play" loading="lazy">
+
+          </div>
+
+          <div class="blog-card-content">
+
+            <div class="blog-card-kicker">
+
+              <span class="kicker-tag">Montessori Living</span>
+
+              <span class="kicker-date">November 09, 2026</span>
+
+            </div>
+
+            <h2 class="blog-card-title">
+
+              <a href="/blog/10-best-montessori-toys-for-toddlers-2026/">10 Best Montessori Toys for Toddlers That Encourage Independent Play</a>
+
+            </h2>
+
+            <p class="blog-card-desc">Skip the flashing lights and plastic noise with these heirloom-worthy wooden essentials that foster deep concentration and fine motor skills....</p>
+
+            <a href="/blog/10-best-montessori-toys-for-toddlers-2026/" class="blog-card-cta">Read Guide →</a>
+
+          </div>
+
+        </article>
+
+        
+
+        <article class="blog-preview-card">
+
+          <div class="blog-card-img">
+
+            <img src="https://m.media-amazon.com/images/I/81k7RzN394L._AC_SL1500_.jpg" alt="10 Top STEM & Magnetic Building Sets for Curious Little Engineers" loading="lazy">
+
+          </div>
+
+          <div class="blog-card-content">
+
+            <div class="blog-card-kicker">
+
+              <span class="kicker-tag">STEM & Learning</span>
+
+              <span class="kicker-date">November 09, 2026</span>
+
+            </div>
+
+            <h2 class="blog-card-title">
+
+              <a href="/blog/10-best-stem-building-toys-for-preschoolers-2026/">10 Top STEM & Magnetic Building Sets for Curious Little Engineers</a>
+
+            </h2>
+
+            <p class="blog-card-desc">Inspire spatial reasoning, geometry intuition, and creative confidence through screen-free 3D architectural exploration....</p>
+
+            <a href="/blog/10-best-stem-building-toys-for-preschoolers-2026/" class="blog-card-cta">Read Guide →</a>
+
+          </div>
+
+        </article>
+
+        
+
+        <article class="blog-preview-card">
+
+          <div class="blog-card-img">
+
+            <img src="https://m.media-amazon.com/images/I/71Yy8vRrkZL._AC_SL1500_.jpg" alt="The Definitive Guide to Wooden Sensory Toys for Early Development" loading="lazy">
+
+          </div>
+
+          <div class="blog-card-content">
+
+            <div class="blog-card-kicker">
+
+              <span class="kicker-tag">Sensory Milestones</span>
+
+              <span class="kicker-date">November 09, 2026</span>
+
+            </div>
+
+            <h2 class="blog-card-title">
+
+              <a href="/blog/best-wooden-sensory-toys-for-early-development/">The Definitive Guide to Wooden Sensory Toys for Early Development</a>
+
+            </h2>
+
+            <p class="blog-card-desc">How tactile wood grain, natural weight, and open-ended design support emotional regulation and sensory milestones....</p>
+
+            <a href="/blog/best-wooden-sensory-toys-for-early-development/" class="blog-card-cta">Read Guide →</a>
+
+          </div>
+
+        </article>
+
+        
+
+        <article class="blog-preview-card">
+
+          <div class="blog-card-img">
+
+            <img src="https://m.media-amazon.com/images/I/81Q6+5Z4-zL._AC_SL1500_.jpg" alt="How to Create a Calm, Minimalist Montessori Playroom on a Budget" loading="lazy">
+
+          </div>
+
+          <div class="blog-card-content">
+
+            <div class="blog-card-kicker">
+
+              <span class="kicker-tag">Playroom Design</span>
+
+              <span class="kicker-date">November 09, 2026</span>
+
+            </div>
+
+            <h2 class="blog-card-title">
+
+              <a href="/blog/open-ended-playroom-essentials-on-a-budget/">How to Create a Calm, Minimalist Montessori Playroom on a Budget</a>
+
+            </h2>
+
+            <p class="blog-card-desc">Low open shelving, intentional toy rotation, and curated Amazon essentials that turn clutter into creative tranquility....</p>
+
+            <a href="/blog/open-ended-playroom-essentials-on-a-budget/" class="blog-card-cta">Read Guide →</a>
+
+          </div>
+
+        </article>
+
+        
+
     </div>
+
   </main>
-
-  <footer class="footer" style="margin-top: 60px; background: white; border-top: 1.5px solid rgba(255, 107, 129, 0.12); padding: 40px 20px;">
-    <div class="footer-container" style="max-width: 980px; margin: 0 auto;">
-      <div class="footer-bottom" style="border:none; padding-top:0; font-size: 12px; color: #94A3B8;">
-        <div class="affiliate-disclosure">
-          <strong>Amazon Associate Disclosure:</strong> TinySteps participates in the Amazon Services LLC Associates Program. As an Amazon Associate, we earn from qualifying purchases at zero added cost to you.
-        </div>
-        <div class="footer-legal" style="display: flex; justify-content: space-between; margin-top: 10px;">
-          <span>&copy; 2026 TinySteps Magazine. All rights reserved.</span>
-          <span>ASTM F963 &amp; CPSC Lab Compliant Curation.</span>
-        </div>
-      </div>
-    </div>
-  </footer>
 
 </body>
 
 </html>
+

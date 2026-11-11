@@ -1,0 +1,80 @@
+================================================================================
+📌 TINYSTEPS - PINTEREST FLOW AI MASTER PROMPTS (PRODUCT CONSISTENCY LOCK)
+ARTIKEL: 10 Best Wooden Montessori Toys for 1-Year-Olds That Last Years
+SLUG: best-wooden-montessori-toys-1-year-old
+DESTINATION URL: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/
+================================================================================
+
+PANDUAN PENTING GOOGLE FLOW SUPAYA PRODUK IDENTIK DENGAN AMAZON:
+1. Gunakan mode Image-to-Image / Product Placement di Flow.
+2. Upload file cutout produk yang bersangkutan.
+3. Gunakan prompt di bawah ini yang sudah dilengkapi instruksi ketat "PRODUCT CONSISTENCY LOCK":
+   AI Flow diperintahkan HANYA merender ruangan, pencahayaan, dan tipografi,
+   sedangkan objek produk DIKUNCI 100% persis dengan cutout tanpa modifikasi.
+================================================================================
+
+--------------------------------------------------------------------------------
+PIN #1: [MULTI-PRODUCT ROUNDUP - 3-4 PRODUK DALAM 1 GAMBAR]
+📁 UPLOAD CUTOUT: Upload 3-4 cutout (Busy Board, Circuit Board, Travel Book, Blocks)
+🔗 LINK: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/
+--------------------------------------------------------------------------------
+PROMPT FLOW (PRODUCT-LOCKED):
+A high-end vertical Pinterest pin image (3:4 aspect ratio, 1200x1600). 
+CRITICAL INSTRUCTION: Seamlessly place and arrange the EXACT products shown in the attached cutout images together inside one realistic scene: (1) the natural wood sensory busy board with brass latches, (2) the yellow-accented wooden LED circuit board, and (3) the sage-blue felt travel busy book. DO NOT hallucinate, redraw, or alter the designs of these toys; preserve their exact shapes, colors, switches, dials, and fabric details 100% as shown in the attachments.
+ENVIRONMENT: Place them artfully on a soft organic linen play mat on the floor of a sun-drenched Scandinavian nursery with light birch wood shelves in the background. Soft warm morning sunlight streaming in, casting realistic ambient shadows under each toy.
+TEXT OVERLAY: At the top safe zone, clean editorial serif typography reading: "10 BEST WOODEN MONTESSORI TOYS FOR 1-YEAR-OLDS THAT LAST YEARS" with a sleek pill badge reading "[ 2026 TESTED PICKS ]". Bottom center brand text: "TinySteps Living". Architectural Digest style photography, 8k resolution.
+
+--------------------------------------------------------------------------------
+PIN #2: [HEIRLOOM MONTESSORI BUSY BOARD]
+📁 UPLOAD CUTOUT: 1_B0D966C22R_large_wooden_montessori_b_cutout.png
+🔗 LINK: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/#item-B0D966C22R
+--------------------------------------------------------------------------------
+PROMPT FLOW (PRODUCT-LOCKED):
+A vertical Pinterest pin image in 3:4 aspect ratio.
+CRITICAL INSTRUCTION: Seamlessly composite and place the EXACT wooden busy board from the attached cutout image into the center of the scene. DO NOT modify, replace, or redesign the busy board. Retain its exact solid wood frame, brass latches, wooden cog gears, analog dials, and textures 100% identical to the reference cutout.
+ENVIRONMENT: The busy board rests securely on a low natural oak toddler bench in a calm, clutter-free Japandi toddler playroom. Warm diffused morning sunlight from the side, casting a soft, realistic drop shadow beneath the wooden board. Shallow depth of field with soft-focus neutral nursery background.
+TEXT OVERLAY: At the top center, bold high-contrast editorial typography: "HEIRLOOM MONTESSORI BUSY BOARD • 100% SOLID WOOD" with a muted sage pill badge "[ BEST OVERALL ]". Bottom center brandmark: "TinySteps Living". Editorial lifestyle photography, ultra-realistic, zero plastic glare.
+
+--------------------------------------------------------------------------------
+PIN #3: [LED CIRCUIT SENSORY BUSY BOARD]
+📁 UPLOAD CUTOUT: 2_B0D2ZD6J2W_led_circuit_sensory_busy__cutout.png
+🔗 LINK: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/#item-B0D2ZD6J2W
+--------------------------------------------------------------------------------
+PROMPT FLOW (PRODUCT-LOCKED):
+A vertical Pinterest pin image in 3:4 aspect ratio.
+CRITICAL INSTRUCTION: Place the EXACT wooden LED circuit board from the attached cutout into the scene. DO NOT generate an imaginary toy. Keep the exact yellow hazard 'POWER' tape header, the exact layout of toggle switches, keyhole, push buttons, and LED bulb locations 100% identical to the attached cutout.
+ENVIRONMENT: The board rests on a child-sized wooden play desk in a cozy evening nursery setting. The LED bulbs emit a subtle, warm, realistic glow onto the wooden surface around them. Gentle ambient lamp lighting in the background, creating an inviting Montessori study corner.
+TEXT OVERLAY: At the top, clean high-contrast text: "EYE-SAFE LED CIRCUIT BOARD • TACTILE CAUSE & EFFECT" with a pill badge "[ TECH-WOOD HYBRID ]". Bottom center brandmark: "TinySteps Living". Crisp commercial photography, 8k resolution.
+
+--------------------------------------------------------------------------------
+PIN #4: [QUIET TRAVEL SENSORY BUSY BOOK]
+📁 UPLOAD CUTOUT: 3_B0CN6P5QVH_8_page_sensory_travel_bus_cutout.png
+🔗 LINK: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/#item-B0CN6P5QVH
+--------------------------------------------------------------------------------
+PROMPT FLOW (PRODUCT-LOCKED):
+A vertical Pinterest pin image in 3:4 aspect ratio.
+CRITICAL INSTRUCTION: Seamlessly integrate the EXACT felt sensory busy book from the attached cutout image. DO NOT invent a different book or draw arbitrary objects. Preserve the exact blue/dinosaur felt outer cover, handles, colorful internal buckles, zipper pockets, and velcro matching elements from the reference cutout image.
+ENVIRONMENT: The book is opened naturally on a light wooden cafe table or airplane window tray table next to a neutral ceramic mug. Bright, airy daylight illuminates the fabric textures and stitching details.
+TEXT OVERLAY: At the top, elegant typography reading: "QUIET TRAVEL BUSY BOOK • 8-PAGE MESS-FREE PLAY" with a badge "[ BEST FOR TRAVEL ]". Bottom center brandmark: "TinySteps Living". Lifestyle travel photography, sharp focus on the product.
+
+--------------------------------------------------------------------------------
+PIN #5: [30-IN-1 SENSORY ACTIVITY CENTER]
+📁 UPLOAD CUTOUT: 5_B0CS32L3GX_30_in_1_sensory_activity__cutout.png
+🔗 LINK: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/#item-B0CS32L3GX
+--------------------------------------------------------------------------------
+PROMPT FLOW (PRODUCT-LOCKED):
+A vertical Pinterest pin image in 3:4 aspect ratio.
+CRITICAL INSTRUCTION: Place the EXACT multi-panel activity center from the attached cutout image into the room. Maintain all the exact colorful gear wheels, clock face, buttoning straps, animal illustrations, and handles shown on the reference cutout without alteration.
+ENVIRONMENT: Unfolded standing upright on a soft beige woven rug in a minimalist modern nursery with warm oak flooring. Gentle, diffused daylight fills the room, showing depth and realistic contact shadows.
+TEXT OVERLAY: At the top, prominent editorial text: "30-IN-1 PRACTICAL LIFE CENTER • BUILDS INDEPENDENCE" with pill badge "[ BEST LIFE SKILLS ]". Bottom center brandmark: "TinySteps Living". Editorial interior photography.
+
+--------------------------------------------------------------------------------
+PIN #6: [MINIMALIST SENSORY LOGIC BOARD]
+📁 UPLOAD CUTOUT: 10_B0CPHTTKBZ_wooden_sensory_logic_boar_cutout.png
+🔗 LINK: https://tinysteps.pages.dev/blog/best-wooden-montessori-toys-1-year-old/#item-B0CPHTTKBZ
+--------------------------------------------------------------------------------
+PROMPT FLOW (PRODUCT-LOCKED):
+A vertical Pinterest pin image in 3:4 aspect ratio.
+CRITICAL INSTRUCTION: Seamlessly place the EXACT wooden logic sliding board from the attached cutout image into the scene. Keep its exact slim rectangular frame, natural wood tone, and sliding peg pathways identical to the reference cutout.
+ENVIRONMENT: Resting on a sun-drenched minimalist window ledge next to a small potted olive plant. Crisp morning architectural shadows, calm Scandinavian living space.
+TEXT OVERLAY: At the top, elegant text: "MINIMALIST LOGIC BOARD • APARTMENT FRIENDLY" with pill badge "[ SPACE-SAVER PICK ]". Bottom center brandmark: "TinySteps Living". Kinfolk style editorial photography.

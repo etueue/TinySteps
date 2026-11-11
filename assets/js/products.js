@@ -1,9 +1,84 @@
 /**
  * TINYSTEPS - Master Curated Educational & Montessori Toys Dataset
- * Total Products: 16
+ * Total Products: 19
  */
 
 const PRODUCTS = [
+  {
+    "id": "b0d966c22r",
+    "asin": "B0D966C22R",
+    "title": "Large Wooden Montessori Busy Board (Heirloom Sensory Station)",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-3 Yrs",
+    "price": "$45.99",
+    "rating": 4.5,
+    "reviews": 571,
+    "badge": "Montessori Heirloom Pick",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/71De6WDqWyL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71De6WDqWyL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0D966C22R?tag=tinystepsliv-20",
+    "description": "Sustainably harvested natural beechwood sensory center with zero synthetic paint. Features tactile latches, cog gears, analog dials, and a classical chime music box.",
+    "bullets": [
+      "100% natural sustainably harvested beechwood with smooth, hand-sanded edges",
+      "Analog mechanical movements: latches, locks, wheels, and wooden turn dials",
+      "Non-electronic auditory feedback with built-in classical chime music box",
+      "ASTM F963 and CPSIA child safety certified for peaceful independent play"
+    ]
+  },
+  {
+    "id": "b0d2zd6j2w",
+    "asin": "B0D2ZD6J2W",
+    "title": "LED Circuit Sensory Busy Board for Toddlers",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-3 Yrs",
+    "price": "$24.99",
+    "rating": 4.7,
+    "reviews": 1767,
+    "badge": "Sensory Tech Hybrid",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/71YLko6pg6L._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71YLko6pg6L._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0D2ZD6J2W?tag=tinystepsliv-20",
+    "description": "Compact wooden travel board pairing tactile woodwork with soft, eye-safe LED diodes and mechanical toggle switches for cause-and-effect discovery.",
+    "bullets": [
+      "Encased solid wood body designed to survive active toddler play",
+      "Soft, eye-safe LED diodes that prevent overstimulation",
+      "Satisfying tactile click switches that develop early finger dexterity",
+      "Compact portable travel footprint ideal for flights and car trips"
+    ]
+  },
+  {
+    "id": "b0cn6p5qvh",
+    "asin": "B0CN6P5QVH",
+    "title": "8-Page Quiet Sensory Travel Busy Book",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-4 Yrs",
+    "price": "$22.99",
+    "rating": 4.7,
+    "reviews": 4477,
+    "badge": "Travel Essential",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/81LgXtyHbnL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81LgXtyHbnL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0CN6P5QVH?tag=tinystepsliv-20",
+    "description": "Featherlight, drop-resistant 8-page sensory felt book packed with buckles, zippers, shoelaces, and buttoning drills for restaurant and airplane calm.",
+    "bullets": [
+      "Soft reinforced felt construction that is whisper-quiet and drop-resistant",
+      "Teaches real-world practical life dressing skills (Montessori practical life)",
+      "Weighs less than 8 ounces with sturdy toddler carrying handles",
+      "Machine washable with reinforced double-stitched binding"
+    ]
+  },
   {
     "id": "b00000iv35",
     "asin": "B00000IV35",
