@@ -1,0 +1,228 @@
+======================================================================
+📌 GOOGLE FLOW PROMPT PACKAGE — DAY #2 (TINYSTEPS)
+======================================================================
+ARTICLE TITLE       : 8 Mess-Free Travel Toys to Keep Toddlers Busy on Long Flights & Road Trips
+TARGET URL          : https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/
+PINTEREST BOARD     : Travel Toys for Kids
+AESTHETIC STYLE     : Warm Toddler Nursery Editorial (Soft Terracotta, Sage & Warm Linen)
+FORMULA             : Benefit-Driven / Outcome Hook (Pain Point -> Desired Result)
+PRODUCT ACCURACY    : CRITICAL INSTRUCTION: Product Consistency Lock Active
+CUTOUT DIRECTORY    : C:\backup\Amazon TS\flow_batches\mess-free-travel-toys-toddlers
+======================================================================
+
+----------------------------------------------------------------------
+PIN #1: [MANDATORY SOP] MULTI-PRODUCT ROUNDUP PIN (8 BEST TRAVEL TOYS)
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/
+IMAGE TYPE     : Multi-Product Editorial Roundup (3–4 products in 1 image)
+REFERENCE FILES:
+  1. 1_B0CX4RLCXW_micromags_magnetic_tin_cutout.png (MAGNA-TILES microMAGS)
+  2. 2_B00TF7ZZM2_wikki_stix_wax_doodler_cutout.png (Wikki Stix Doodler)
+  3. 4_B0D46FMQTJ_lcd_doodle_board_cutout.png (LCD Writing Tablet)
+  4. 5_B0CV64CZCQ_sensory_seek_find_bear_cutout.png (Sensory Seek Bear)
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly composite the 4 EXACT products from the attached transparent cutout PNG files onto a cozy, clean airplane tray table or minimalist light birch nursery travel mat. DO NOT modify, alter, distort, redraw, or hallucinate different toys. Maintain 100% fidelity to the actual products shown in the cutouts.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). High-end parenting lifestyle photography. A beautifully styled, warm flat lay arrangement on a clean cream linen surface with subtle airplane window sunlight casting soft, gentle shadows. Four mess-free toddler travel toys are neatly arranged in a curated cluster: a compact metal tin of micro magnetic tiles, colorful reusable wax yarn sticks, a sleek pastel LCD writing doodle tablet, and a soft fabric sensory seek-and-find bear with clear viewing window. No clutter, no crumbs, completely serene and organized. Warm soothing nursery aesthetic with accents of soft terracotta (#E26D5C), calming sage (#7D9D8B), and warm cream (#FFFDF9). Professional editorial catalog lighting, sharp tactile textures, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Headline (Large bold serif, soft charcoal #2B2D42):
+  "8 MESS-FREE TRAVEL TOYS TO KEEP TODDLERS BUSY ON LONG FLIGHTS & ROAD TRIPS"
+- Sub-Badge / Pill (Rounded pill, warm terracotta #E26D5C with white bold text):
+  "SCREEN-FREE FLIGHT SAVIORS"
+- Footer Watermark (Centered, refined sans-serif, muted grey):
+  "thetinysteps.pages.dev"
+
+----------------------------------------------------------------------
+PIN #2: PRODUCT #1 — MAGNA-TILES MICROMAGS 26-PIECE TRAVEL SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B0CX4RLCXW
+AFFILIATE LINK : https://www.amazon.com/dp/B0CX4RLCXW?tag=tinystepsliv-20
+COPY ANGLE     : Screen-Free & Ketenangan
+REFERENCE FILE : 1_B0CX4RLCXW_micromags_magnetic_tin_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (1_B0CX4RLCXW_micromags_magnetic_tin_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '1_B0CX4RLCXW_micromags_magnetic_tin_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "HOW TO GET 3 HOURS OF AIRPLANE PEACE (WITHOUT AN IPAD)"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ NO IPAD NEEDED ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Pocket-Sized Metal Tin • Zero Dropped Pieces"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #3: PRODUCT #2 — WIKKI STIX DOODLER TRAVEL TOY
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B00TF7ZZM2
+AFFILIATE LINK : https://www.amazon.com/dp/B00TF7ZZM2?tag=tinystepsliv-20
+COPY ANGLE     : Anti-Mess / Travel Calm
+REFERENCE FILE : 2_B00TF7ZZM2_wikki_stix_wax_doodler_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (2_B00TF7ZZM2_wikki_stix_wax_doodler_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '2_B00TF7ZZM2_wikki_stix_wax_doodler_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "THE ZERO-MESS AIRPLANE TRAY SAVIOR"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ 100% REUSABLE ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "No Ink, No Markers, No Sticky Residue"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #4: PRODUCT #3 — EDUCATIONAL INSIGHTS KANOODLE POCKET PUZZLE
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B000FGECAI
+AFFILIATE LINK : https://www.amazon.com/dp/B000FGECAI?tag=tinystepsliv-20
+COPY ANGLE     : Perkembangan Anak / Tantrum Reset
+REFERENCE FILE : 3_B000FGECAI_kanoodle_pocket_logic_gam_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (3_B000FGECAI_kanoodle_pocket_logic_gam_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '3_B000FGECAI_kanoodle_pocket_logic_gam_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "TIRED OF TODDLER FLIGHT MELTDOWNS? TRY THIS LOGIC RESET"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ SILENT INDEPENDENT PLAY ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Pocket Self-Contained Case • 200+ Challenges"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #5: PRODUCT #4 — TQU LCD WRITING TABLET TRAVEL PAD
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B0D46FMQTJ
+AFFILIATE LINK : https://www.amazon.com/dp/B0D46FMQTJ?tag=tinystepsliv-20
+COPY ANGLE     : Screen-Free & Ketenangan
+REFERENCE FILE : 4_B0D46FMQTJ_lcd_doodle_board_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (4_B0D46FMQTJ_lcd_doodle_board_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '4_B0D46FMQTJ_lcd_doodle_board_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "DINNER OUT & FLIGHTS IN PEACE: THE SCREEN-FREE ESSENTIAL"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ ONE-CLICK ERASE ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Zero Paper Waste • Featherlight Travel Pick"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #6: PRODUCT #5 — CHUCKLE & ROAR SENSORY SEEK & FIND BEAR
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B0CV64CZCQ
+AFFILIATE LINK : https://www.amazon.com/dp/B0CV64CZCQ?tag=tinystepsliv-20
+COPY ANGLE     : Perkembangan Anak / Tantrum Reset
+REFERENCE FILE : 5_B0CV64CZCQ_sensory_seek_find_bear_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (5_B0CV64CZCQ_sensory_seek_find_bear_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '5_B0CV64CZCQ_sensory_seek_find_bear_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "KEEP LITTLE HANDS BUSY BEFORE TAKEOFF"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ ZERO LOOSE PARTS ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Self-Contained Beanbag • Lap & Stroller Friendly"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #7: PRODUCT #6 — MINI MAGNETIC TILES TRAVEL TIN SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B0G3P87ZN2
+AFFILIATE LINK : https://www.amazon.com/dp/B0G3P87ZN2?tag=tinystepsliv-20
+COPY ANGLE     : Investasi Mainan Awet
+REFERENCE FILE : 6_B0G3P87ZN2_mini_magnetic_building_ti_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (6_B0G3P87ZN2_mini_magnetic_building_ti_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '6_B0G3P87ZN2_mini_magnetic_building_ti_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "THE ONLY TOY YOU NEED IN YOUR CARRY-ON BAG"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ COMPACT TIN TRAVEL ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Magnetic Containment • No Scattered Parts"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #8: PRODUCT #7 — CRAYOLA WASHABLE DRY ERASE TRAVEL PACK
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B0197UCCVS
+AFFILIATE LINK : https://www.amazon.com/dp/B0197UCCVS?tag=tinystepsliv-20
+COPY ANGLE     : Anti-Clutter / Zero Waste
+REFERENCE FILE : 7_B0197UCCVS_crayola_dry_erase_travel__cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (7_B0197UCCVS_crayola_dry_erase_travel__cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '7_B0197UCCVS_crayola_dry_erase_travel__cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "STOP BUYING DISPOSABLE ACTIVITY BOOKS"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ ENDLESS REUSE ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Wipes Clean Instantly • Car Seat Friendly"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #9: PRODUCT #8 — RELATABLE MINI COLOR STACK CHALLENGE
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/mess-free-travel-toys-toddlers/#item-B0GFFXCK6J
+AFFILIATE LINK : https://www.amazon.com/dp/B0GFFXCK6J?tag=tinystepsliv-20
+COPY ANGLE     : Practical Life / Travel Hack
+REFERENCE FILE : 8_B0GFFXCK6J_mini_color_stack_puzzle_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (8_B0GFFXCK6J_mini_color_stack_puzzle_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, switches, buttons, and materials 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+Vertical Pinterest pin (9:16 aspect ratio). A bright, airy lifestyle shot inside a calm airplane cabin or sunlit backseat car setting. The exact product from reference cutout '8_B0GFFXCK6J_mini_color_stack_puzzle_cutout.png' is resting neatly on an airplane tray table or toddler lap tray. Soft, natural morning sunlight through the airplane window creates soft natural shadows. In the soft-focus background, a calm toddler's small hands interact peacefully with the toy. Color grading features soothing warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Warm, reassuring, screen-free atmosphere. High-end Scandinavian family travel editorial photography, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "THE AIRPLANE TRAY TABLE HACK PARENTS SWEAR BY"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ COMPACT FOCUS ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Engineered for Narrow Trays • Road Trip Favorite"
+- Footer:
+  "TinySteps Living"
