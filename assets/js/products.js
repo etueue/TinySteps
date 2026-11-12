@@ -1,7 +1,7 @@
 /**
  * TINYSTEPS - Master Curated Educational & Montessori Toys Dataset
- * Total Products: 15
- * Updated: rinal - Clean Verified Dataset
+ * Total Products: 30 (Top 3 Standout Products per Article for Days 1-10)
+ * Tag: tinystepsliv-20
  */
 
 const PRODUCTS = [
@@ -11,15 +11,15 @@ const PRODUCTS = [
     "title": "Large Wooden Montessori Busy Board",
     "category": "montessori",
     "categoryLabel": "Montessori & Wooden",
-    "ageGroup": "Ages 1-3 Yrs",
-    "price": "$45.99",
+    "ageGroup": "Ages 1-3 Years",
+    "price": "$Under $50",
     "rating": 4.5,
     "reviews": 571,
     "badge": "BEST OVERALL MONTESSORI PICK",
     "isViral": true,
-    "image": "/assets/images/products/1_B0D966C22R_large_wooden_montessori_b_raw.jpg",
+    "image": "https://m.media-amazon.com/images/I/71De6WDqWyL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/1_B0D966C22R_large_wooden_montessori_b_raw.jpg"
+      "https://m.media-amazon.com/images/I/71De6WDqWyL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0D966C22R?tag=tinystepsliv-20",
     "description": "The parent looking for a high-quality heirloom piece that anchors a play corner.",
@@ -33,17 +33,17 @@ const PRODUCTS = [
     "id": "b0d2zd6j2w",
     "asin": "B0D2ZD6J2W",
     "title": "LED Circuit Sensory Busy Board",
-    "category": "sensory",
-    "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 1-3 Yrs",
-    "price": "$24.99",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-3 Years",
+    "price": "$Under $30",
     "rating": 4.7,
     "reviews": 1767,
     "badge": "BEST TECH-WOOD HYBRID",
-    "isViral": true,
-    "image": "/assets/images/products/2_B0D2ZD6J2W_led_circuit_sensory_busy__raw.jpg",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/71YLko6pg6L._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/2_B0D2ZD6J2W_led_circuit_sensory_busy__raw.jpg"
+      "https://m.media-amazon.com/images/I/71YLko6pg6L._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0D2ZD6J2W?tag=tinystepsliv-20",
     "description": "Busy toddlers who crave cause-and-effect learning during travel or quiet time.",
@@ -57,17 +57,17 @@ const PRODUCTS = [
     "id": "b0cn6p5qvh",
     "asin": "B0CN6P5QVH",
     "title": "8-Page Sensory Travel Busy Book",
-    "category": "sensory",
-    "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 1-4 Yrs",
-    "price": "$22.99",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-3 Years",
+    "price": "$Under $30",
     "rating": 4.7,
     "reviews": 4477,
     "badge": "BEST FOR TRAVEL",
-    "isViral": true,
-    "image": "/assets/images/products/3_B0CN6P5QVH_8_page_sensory_travel_bus_raw.jpg",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81LgXtyHbnL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/3_B0CN6P5QVH_8_page_sensory_travel_bus_raw.jpg"
+      "https://m.media-amazon.com/images/I/81LgXtyHbnL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0CN6P5QVH?tag=tinystepsliv-20",
     "description": "Parents who need a portable, clutter-free solution for dinners out and flights.",
@@ -78,291 +78,655 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "b0gtvg7wjp",
-    "asin": "B0GTVG7WJP",
-    "title": "Interactive Felt Busy Book",
+    "id": "b0cx4rlcxw",
+    "asin": "B0CX4RLCXW",
+    "title": "MAGNA-TILES microMAGS 26-Piece Set",
     "category": "sensory",
     "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 1-4 Yrs",
-    "price": "$21.99",
-    "rating": 4.5,
-    "reviews": 4477,
-    "badge": "BEST SENSORY PLAY",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 3684,
+    "badge": "BEST OVERALL",
     "isViral": true,
-    "image": "/assets/images/products/4_B0GTVG7WJP_interactive_felt_busy_boo_raw.jpg",
+    "image": "https://m.media-amazon.com/images/I/71FIJWtTIbL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/4_B0GTVG7WJP_interactive_felt_busy_boo_raw.jpg"
+      "https://m.media-amazon.com/images/I/71FIJWtTIbL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0GTVG7WJP?tag=tinystepsliv-20",
-    "description": "Those seeking a functional birthday gift that doesn't overwhelm the recipient's home.",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CX4RLCXW?tag=tinystepsliv-20",
+    "description": "A top-rated MAGNA-TILES microMAGS 26-Piece Set designed for screen-free toddler development.",
     "bullets": [
-      "Durable stitching for long-term use",
-      "Includes 20+ independent activities",
-      "Compact enough to clear off a table in seconds"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b0cs32l3gx",
-    "asin": "B0CS32L3GX",
-    "title": "30-in-1 Sensory Activity Center",
+    "id": "b00tf7zzm2",
+    "asin": "B00TF7ZZM2",
+    "title": "Wikki Stix Doodler Travel Toy",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
+    "rating": 4.3,
+    "reviews": 13582,
+    "badge": "BEST FOR SENSORY PLAY",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/61dfmiFMD2L._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61dfmiFMD2L._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B00TF7ZZM2?tag=tinystepsliv-20",
+    "description": "A top-rated Wikki Stix Doodler Travel Toy designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b000fgecai",
+    "asin": "B000FGECAI",
+    "title": "Educational Insights Kanoodle",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 35439,
+    "badge": "BEST FOR LOGIC BUILDING",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/712W+h7AF6L._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/712W+h7AF6L._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B000FGECAI?tag=tinystepsliv-20",
+    "description": "A top-rated Educational Insights Kanoodle designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b07yr9t251",
+    "asin": "B07YR9T251",
+    "title": "Melissa & Doug Take-Along Wooden Barn",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-4 Years",
+    "price": "$Under $50",
+    "rating": 4.7,
+    "reviews": 8677,
+    "badge": "BEST OVERALL",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/71FpqcEeObL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71FpqcEeObL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07YR9T251?tag=tinystepsliv-20",
+    "description": "A top-rated Melissa & Doug Take-Along Wooden Barn designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0df2nrphs",
+    "asin": "B0DF2NRPHS",
+    "title": "3-in-1 Montessori Motor Skills Set",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-4 Years",
+    "price": "$Under $30",
+    "rating": 4.5,
+    "reviews": 776,
+    "badge": "BEST SPACE-SAVER",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/71WUXZiQnKL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71WUXZiQnKL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0DF2NRPHS?tag=tinystepsliv-20",
+    "description": "A top-rated 3-in-1 Montessori Motor Skills Set designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b098nclfgd",
+    "asin": "B098NCLFGD",
+    "title": "KMTJT Harvest Cart",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-4 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 7384,
+    "badge": "BEST VALUE",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/71KIocz1MPL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71KIocz1MPL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B098NCLFGD?tag=tinystepsliv-20",
+    "description": "A top-rated KMTJT Harvest Cart designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b08lk3gbjh",
+    "asin": "B08LK3GBJH",
+    "title": "Creativity for Kids Outer Space Sensory Bin",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
+    "rating": 4.6,
+    "reviews": 5923,
+    "badge": "BEST OVERALL",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/81vxj9SeB+L._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81vxj9SeB+L._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B08LK3GBJH?tag=tinystepsliv-20",
+    "description": "A top-rated Creativity for Kids Outer Space Sensory Bin designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b08wbvq779",
+    "asin": "B08WBVQ779",
+    "title": "Educational Insights Pluffle Mini",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $50",
+    "rating": 4.7,
+    "reviews": 928,
+    "badge": "BEST FOR SENSORY CALM",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/811PvMjNVGL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/811PvMjNVGL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B08WBVQ779?tag=tinystepsliv-20",
+    "description": "A top-rated Educational Insights Pluffle Mini designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0c4nkzcx2",
+    "asin": "B0C4NKZCX2",
+    "title": "Yowlieu 10 Pcs Wooden Sensory Bin Tools",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 383,
+    "badge": "BEST SPACE-SAVER",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81LhFih6x0L._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81LhFih6x0L._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0C4NKZCX2?tag=tinystepsliv-20",
+    "description": "A top-rated Yowlieu 10 Pcs Wooden Sensory Bin Tools designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b000068cky",
+    "asin": "B000068CKY",
+    "title": "Melissa & Doug 100 Wooden Building Blocks",
     "category": "montessori",
     "categoryLabel": "Montessori & Wooden",
-    "ageGroup": "Ages 1-3 Yrs",
-    "price": "$23.99",
+    "ageGroup": "Ages 1-4 Years",
+    "price": "$Under $30",
     "rating": 4.7,
-    "reviews": 3050,
-    "badge": "BEST FOR LIFE SKILLS",
+    "reviews": 28767,
+    "badge": "BEST OVERALL",
     "isViral": true,
-    "image": "/assets/images/products/5_B0CS32L3GX_30_in_1_sensory_activity__raw.jpg",
+    "image": "https://m.media-amazon.com/images/I/71jVEjU17nL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/5_B0CS32L3GX_30_in_1_sensory_activity__raw.jpg"
+      "https://m.media-amazon.com/images/I/71jVEjU17nL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CS32L3GX?tag=tinystepsliv-20",
-    "description": "Early learners who benefit from structured, daily tactile practice.",
+    "affiliateUrl": "https://www.amazon.com/dp/B000068CKY?tag=tinystepsliv-20",
+    "description": "A top-rated Melissa & Doug 100 Wooden Building Blocks designed for screen-free toddler development.",
     "bullets": [
-      "High density of activities in a small footprint",
-      "Helps teach counting, clocks, and animal recognition",
-      "Easy to clean surface"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b0h4trvjkx",
-    "asin": "B0H4TRVJKX",
-    "title": "Essential Montessori Busy Book",
-    "category": "sensory",
-    "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 1-3 Yrs",
-    "price": "$18.99",
+    "id": "b078wm314m",
+    "asin": "B078WM314M",
+    "title": "Spike The Fine Motor Hedgehog",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-4 Years",
+    "price": "$Under $30",
     "rating": 4.7,
-    "reviews": 7,
-    "badge": "BEST BUDGET PICK",
+    "reviews": 54014,
+    "badge": "BEST SPACE-SAVER",
     "isViral": false,
-    "image": "/assets/images/products/6_B0H4TRVJKX_essential_montessori_busy_raw.jpg",
+    "image": "https://m.media-amazon.com/images/I/71mW+l88i6L._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/6_B0H4TRVJKX_essential_montessori_busy_raw.jpg"
+      "https://m.media-amazon.com/images/I/71mW+l88i6L._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0H4TRVJKX?tag=tinystepsliv-20",
-    "description": "Minimalist families looking to try the Montessori method on a gentle budget.",
+    "affiliateUrl": "https://www.amazon.com/dp/B078WM314M?tag=tinystepsliv-20",
+    "description": "A top-rated Spike The Fine Motor Hedgehog designed for screen-free toddler development.",
     "bullets": [
-      "Incredible value under $20",
-      "No loose lint or rough surfaces",
-      "Sturdy handle for little toddler hands"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b0gm6vvy7d",
-    "asin": "B0GM6VVY7D",
-    "title": "Multi-Station Wooden Activity Station",
+    "id": "b0d5msgvqy",
+    "asin": "B0D5MSGVQY",
+    "title": "Preschool Math Manipulatives",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-4 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 1202,
+    "badge": "BEST VALUE",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/71eqFMUeJSL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71eqFMUeJSL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0D5MSGVQY?tag=tinystepsliv-20",
+    "description": "A top-rated Preschool Math Manipulatives designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b000cbsnry",
+    "asin": "B000CBSNRY",
+    "title": "MAGNA-TILES Classic 100-Piece Set",
     "category": "stem",
     "categoryLabel": "STEM & Early Math",
-    "ageGroup": "Ages 2-4 Yrs",
-    "price": "$26.99",
-    "rating": 4.7,
-    "reviews": 379,
-    "badge": "BEST COGNITIVE DEVELOPMENT",
-    "isViral": false,
-    "image": "/assets/images/products/7_B0GM6VVY7D_multi_station_wooden_acti_raw.jpg",
+    "ageGroup": "Ages 3-6 Years",
+    "price": "$100 \u2013 $150",
+    "rating": 4.9,
+    "reviews": 11449,
+    "badge": "BEST OVERALL",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/71bRwQFK1vL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/7_B0GM6VVY7D_multi_station_wooden_acti_raw.jpg"
+      "https://m.media-amazon.com/images/I/71bRwQFK1vL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0GM6VVY7D?tag=tinystepsliv-20",
-    "description": "Children who enjoy following visual cues and pattern recognition.",
+    "affiliateUrl": "https://www.amazon.com/dp/B000CBSNRY?tag=tinystepsliv-20",
+    "description": "A top-rated MAGNA-TILES Classic 100-Piece Set designed for screen-free toddler development.",
     "bullets": [
-      "Integrates math and weather concepts naturally",
-      "Well-secured interactive components",
-      "Perfect size for standard restaurant high chair trays"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b0cjffcsm4",
-    "asin": "B0CJFFCSM4",
-    "title": "JHkim 22-in-1 Sensory Board",
+    "id": "b08r3tw6pd",
+    "asin": "B08R3TW6PD",
+    "title": "Coodoo Upgraded Magnetic Blocks",
+    "category": "stem",
+    "categoryLabel": "STEM & Early Math",
+    "ageGroup": "Ages 3-6 Years",
+    "price": "$Under $30",
+    "rating": 4.6,
+    "reviews": 11126,
+    "badge": "BEST VALUE",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81ntQ2B0pxL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81ntQ2B0pxL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B08R3TW6PD?tag=tinystepsliv-20",
+    "description": "A top-rated Coodoo Upgraded Magnetic Blocks designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0btk8zqcd",
+    "asin": "B0BTK8ZQCD",
+    "title": "Cossy 120-Piece STEM Set",
+    "category": "stem",
+    "categoryLabel": "STEM & Early Math",
+    "ageGroup": "Ages 3-6 Years",
+    "price": "$Under $50",
+    "rating": 4.8,
+    "reviews": 3364,
+    "badge": "BEST FOR LARGE BUILDS",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81HCe-K1WJL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81HCe-K1WJL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0BTK8ZQCD?tag=tinystepsliv-20",
+    "description": "A top-rated Cossy 120-Piece STEM Set designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0gj61flwx",
+    "asin": "B0GJ61FLWX",
+    "title": "Giraffe Montessori Activity Book",
     "category": "sensory",
     "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 1-3 Yrs",
-    "price": "$24.99",
+    "ageGroup": "Ages 1-3 Years",
+    "price": "$Under $30",
     "rating": 4.7,
-    "reviews": 501,
-    "badge": "BEST FINE MOTOR SKILLS",
-    "isViral": false,
-    "image": "/assets/images/products/8_B0CJFFCSM4_jhkim_22_in_1_sensory_boa_raw.jpg",
+    "reviews": 77,
+    "badge": "BEST OVERALL",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/819u4nu7LQL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/8_B0CJFFCSM4_jhkim_22_in_1_sensory_boa_raw.jpg"
+      "https://m.media-amazon.com/images/I/819u4nu7LQL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CJFFCSM4?tag=tinystepsliv-20",
-    "description": "Those who prioritize a specific aesthetic without sacrificing developmental utility.",
+    "affiliateUrl": "https://www.amazon.com/dp/B0GJ61FLWX?tag=tinystepsliv-20",
+    "description": "A top-rated Giraffe Montessori Activity Book designed for screen-free toddler development.",
     "bullets": [
-      "Thoughtful, calming blue aesthetic",
-      "Wide variety of closure types and gear dials",
-      "Lightweight and portable"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b0dbhb5gst",
-    "asin": "B0DBHB5GST",
-    "title": "Thematic Soft Sensory Board",
+    "id": "b0ddjr3m3j",
+    "asin": "B0DDJR3M3J",
+    "title": "8-in-1 Sensory Development Book",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-3 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 1062,
+    "badge": "BEST FOR COGNITIVE GROWTH",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81dBMkzJreL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81dBMkzJreL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0DDJR3M3J?tag=tinystepsliv-20",
+    "description": "A top-rated 8-in-1 Sensory Development Book designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b09npv7pv3",
+    "asin": "B09NPV7PV3",
+    "title": "Felted Wool Sensory Book",
+    "category": "sensory",
+    "categoryLabel": "Sensory & Fine Motor",
+    "ageGroup": "Ages 1-3 Years",
+    "price": "$Under $30",
+    "rating": 4.5,
+    "reviews": 754,
+    "badge": "BEST TEXTURE",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/91hlY5+m0TL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/91hlY5+m0TL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B09NPV7PV3?tag=tinystepsliv-20",
+    "description": "A top-rated Felted Wool Sensory Book designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0h4gmhzlz",
+    "asin": "B0H4GMHZLZ",
+    "title": "Full-Feature Interactive Kitchen",
     "category": "pretend",
     "categoryLabel": "Pretend & Creative",
-    "ageGroup": "Ages 1-4 Yrs",
-    "price": "$21.99",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$150 \u2013 $200",
     "rating": 4.7,
-    "reviews": 792,
-    "badge": "BEST THEMATIC MONTESSORI",
-    "isViral": false,
-    "image": "/assets/images/products/9_B0DBHB5GST_thematic_soft_sensory_boa_raw.jpg",
+    "reviews": 20,
+    "badge": "BEST OVERALL",
+    "isViral": true,
+    "image": "https://m.media-amazon.com/images/I/81XuOY3tNCL._AC_SL1200_.jpg",
     "images": [
-      "/assets/images/products/9_B0DBHB5GST_thematic_soft_sensory_boa_raw.jpg"
+      "https://m.media-amazon.com/images/I/81XuOY3tNCL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0DBHB5GST?tag=tinystepsliv-20",
-    "description": "Parents looking for a blend of imaginative play and structured learning.",
+    "affiliateUrl": "https://www.amazon.com/dp/B0H4GMHZLZ?tag=tinystepsliv-20",
+    "description": "A top-rated Full-Feature Interactive Kitchen designed for screen-free toddler development.",
     "bullets": [
-      "Engaging theme that captivates toddlers",
-      "Reinforced stitching throughout",
-      "Includes a built-in puzzle game"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b0cphttkbz",
-    "asin": "B0CPHTTKBZ",
-    "title": "Wooden Sensory Logic Board",
+    "id": "b0cj2msfcv",
+    "asin": "B0CJ2MSFCV",
+    "title": "43-Piece Montessori Food Set",
+    "category": "pretend",
+    "categoryLabel": "Pretend & Creative",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $50",
+    "rating": 4.7,
+    "reviews": 377,
+    "badge": "BEST FOR NARROW COUNTERS",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81mOYh7LumL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81mOYh7LumL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0CJ2MSFCV?tag=tinystepsliv-20",
+    "description": "A top-rated 43-Piece Montessori Food Set designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0dfqc83vz",
+    "asin": "B0DFQC83VZ",
+    "title": "Sensory Crunch Food Set",
+    "category": "pretend",
+    "categoryLabel": "Pretend & Creative",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $50",
+    "rating": 4.7,
+    "reviews": 224,
+    "badge": "BEST FOR QUIET FOCUS",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/81vzlESvZML._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81vzlESvZML._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0DFQC83VZ?tag=tinystepsliv-20",
+    "description": "A top-rated Sensory Crunch Food Set designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b087f3bzxd",
+    "asin": "B087F3BZXD",
+    "title": "Montessori Shape Sorting Set",
     "category": "stem",
     "categoryLabel": "STEM & Early Math",
-    "ageGroup": "Ages 2-5 Yrs",
-    "price": "$19.99",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
     "rating": 4.7,
-    "reviews": 1200,
-    "badge": "BEST MINIMALIST FOOTPRINT",
-    "isViral": false,
-    "image": "/assets/images/products/10_B0CPHTTKBZ_wooden_sensory_logic_boar_raw.jpg",
-    "images": [
-      "/assets/images/products/10_B0CPHTTKBZ_wooden_sensory_logic_boar_raw.jpg"
-    ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CPHTTKBZ?tag=tinystepsliv-20",
-    "description": "Urban families who value a decluttered surface above all else.",
-    "bullets": [
-      "Minimal footprint for small nurseries",
-      "High-grade natural wood construction",
-      "Encourages deep, uninterrupted focus"
-    ]
-  },
-  {
-    "id": "b00000iv35",
-    "asin": "B00000IV35",
-    "title": "Melissa & Doug Shape Sorting Cube Classic Wooden Toy",
-    "category": "montessori",
-    "categoryLabel": "Montessori & Wooden",
-    "ageGroup": "Ages 1-3 Yrs",
-    "price": "$14.99",
-    "rating": 4.8,
-    "reviews": 24850,
-    "badge": "Montessori Classic",
+    "reviews": 2290,
+    "badge": "BEST OVERALL",
     "isViral": true,
-    "image": "https://m.media-amazon.com/images/I/718mXgD3p-L._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/710WJnAZtVL._AC_SL1200_.jpg",
     "images": [
-      "https://m.media-amazon.com/images/I/718mXgD3p-L._AC_SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/710WJnAZtVL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B00000IV35?tag=tinystepsliv-20",
-    "description": "Heirloom-quality shape sorting cube made of solid natural wood with 12 colorful, easy-to-grip shapes.",
+    "affiliateUrl": "https://www.amazon.com/dp/B087F3BZXD?tag=tinystepsliv-20",
+    "description": "A top-rated Montessori Shape Sorting Set designed for screen-free toddler development.",
     "bullets": [
-      "Solid natural hardwood construction with non-toxic paints",
-      "12 vibrant chunky wooden shapes designed for toddler hands",
-      "Teaches shape recognition, manual dexterity, and spatial reasoning"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b071wpkz3y",
-    "asin": "B071WPKZ3Y",
-    "title": "Melissa & Doug 100 Solid Wood Building Blocks Set",
-    "category": "montessori",
-    "categoryLabel": "Montessori & Wooden",
-    "ageGroup": "Ages 2-5 Yrs",
-    "price": "$19.99",
-    "rating": 4.9,
-    "reviews": 38200,
-    "badge": "Open-Ended Essential",
-    "isViral": true,
-    "image": "https://m.media-amazon.com/images/I/81Q6%2B5Z4-zL._AC_SL1500_.jpg",
-    "images": [
-      "https://m.media-amazon.com/images/I/81Q6%2B5Z4-zL._AC_SL1500_.jpg"
-    ],
-    "affiliateUrl": "https://www.amazon.com/dp/B071WPKZ3Y?tag=tinystepsliv-20",
-    "description": "100 durable wooden blocks in 4 colors and 9 distinct geometric shapes for architectural creativity.",
-    "bullets": [
-      "100 precision-milled solid wood blocks with splinter-free edges",
-      "Features 4 vibrant colors and 9 geometric shapes",
-      "Builds spatial awareness and fine motor precision"
-    ]
-  },
-  {
-    "id": "b00i3vna7u",
-    "asin": "B00I3VNA7U",
-    "title": "PicassoTiles 100-Piece 3D Magnetic Building Tile Playset",
+    "id": "b004pbngem",
+    "asin": "B004PBNGEM",
+    "title": "Self-Correcting Alphabet Puzzles",
     "category": "stem",
     "categoryLabel": "STEM & Early Math",
-    "ageGroup": "Ages 3-8 Yrs",
-    "price": "$32.99",
-    "rating": 4.8,
-    "reviews": 49100,
-    "badge": "Top STEM Pick",
-    "isViral": true,
-    "image": "https://m.media-amazon.com/images/I/81k7RzN394L._AC_SL1500_.jpg",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$Under $30",
+    "rating": 4.7,
+    "reviews": 8873,
+    "badge": "BEST STORAGE",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/7136EgsyqpL._AC_SL1200_.jpg",
     "images": [
-      "https://m.media-amazon.com/images/I/81k7RzN394L._AC_SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/7136EgsyqpL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B00I3VNA7U?tag=tinystepsliv-20",
-    "description": "Translucent magnetic building tiles that unlock 3D spatial thinking, geometry concepts, and engineering.",
+    "affiliateUrl": "https://www.amazon.com/dp/B004PBNGEM?tag=tinystepsliv-20",
+    "description": "A top-rated Self-Correcting Alphabet Puzzles designed for screen-free toddler development.",
     "bullets": [
-      "100 vibrant translucent tiles with strong encased magnets",
-      "Ultrasonic welding prevents loose magnets",
-      "Develops architectural intuition and problem-solving"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b00v36s4b2",
-    "asin": "B00V36S4B2",
-    "title": "Learning Resources Spike The Fine Motor Hedgehog",
-    "category": "sensory",
-    "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 18m-4 Yrs",
-    "price": "$12.49",
-    "rating": 4.8,
-    "reviews": 54300,
-    "badge": "Occupational Therapy Pick",
-    "isViral": true,
-    "image": "https://m.media-amazon.com/images/I/71Yy8vRrkZL._AC_SL1500_.jpg",
+    "id": "b0dlhc66dc",
+    "asin": "B0DLHC66DC",
+    "title": "FSC-Certified Montessori Triangle Puzzle",
+    "category": "stem",
+    "categoryLabel": "STEM & Early Math",
+    "ageGroup": "Ages 2-5 Years",
+    "price": "$20.00",
+    "rating": 4.7,
+    "reviews": 143,
+    "badge": "BEST DESIGN",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/71Kw2eRzDpL._AC_SL1200_.jpg",
     "images": [
-      "https://m.media-amazon.com/images/I/71Yy8vRrkZL._AC_SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/71Kw2eRzDpL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B00V36S4B2?tag=tinystepsliv-20",
-    "description": "Award-winning fine motor toy designed to build pincer grasp and color sequencing through tactile quill play.",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DLHC66DC?tag=tinystepsliv-20",
+    "description": "A top-rated FSC-Certified Montessori Triangle Puzzle designed for screen-free toddler development.",
     "bullets": [
-      "12 chunky textured quills tailored for toddler finger development",
-      "Develops pincer grasp needed for early writing",
-      "Shell opens for easy mess-free storage"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   },
   {
-    "id": "b01n26bgy1",
-    "asin": "B01N26BGY1",
-    "title": "Fat Brain Toys Dimpl Sensory Baby & Toddler Toy",
-    "category": "sensory",
-    "categoryLabel": "Sensory & Fine Motor",
-    "ageGroup": "Ages 10m-3 Yrs",
-    "price": "$10.95",
-    "rating": 4.9,
-    "reviews": 31400,
-    "badge": "Sensory Hit",
+    "id": "b0df2d5zxk",
+    "asin": "B0DF2D5ZXK",
+    "title": "Tiny Land 7-in-1 Foldable Set",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-5 Years",
+    "price": "$150 \u2013 $200",
+    "rating": 4.7,
+    "reviews": 443,
+    "badge": "BEST OVERALL",
     "isViral": true,
-    "image": "https://m.media-amazon.com/images/I/71o0Wj%2BGk2L._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/71iBgAysPhL._AC_SL1200_.jpg",
     "images": [
-      "https://m.media-amazon.com/images/I/71o0Wj%2BGk2L._AC_SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/71iBgAysPhL._AC_SL1200_.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B01N26BGY1?tag=tinystepsliv-20",
-    "description": "Tactile sensory sensation featuring 5 vibrant food-grade silicone bubbles built into a durable frame.",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DF2D5ZXK?tag=tinystepsliv-20",
+    "description": "A top-rated Tiny Land 7-in-1 Foldable Set designed for screen-free toddler development.",
     "bullets": [
-      "100% food-grade BPA-free silicone bubbles",
-      "Promotes sensory exploration and calm focus",
-      "Compact lightweight design ideal for diaper bags and travel"
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0dpqs6yt8",
+    "asin": "B0DPQS6YT8",
+    "title": "BlueWood Totsicle Set",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-5 Years",
+    "price": "$100 \u2013 $150",
+    "rating": 4.7,
+    "reviews": 345,
+    "badge": "BEST SPACE-SAVER",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/716ds5LeEiL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/716ds5LeEiL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0DPQS6YT8?tag=tinystepsliv-20",
+    "description": "A top-rated BlueWood Totsicle Set designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
+    ]
+  },
+  {
+    "id": "b0dvys31xd",
+    "asin": "B0DVYS31XD",
+    "title": "OLAKIDS 7-in-1 Climber",
+    "category": "montessori",
+    "categoryLabel": "Montessori & Wooden",
+    "ageGroup": "Ages 1-5 Years",
+    "price": "$50 \u2013 $100",
+    "rating": 4.0,
+    "reviews": 22,
+    "badge": "BEST VALUE",
+    "isViral": false,
+    "image": "https://m.media-amazon.com/images/I/619aeJt5wqL._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/619aeJt5wqL._AC_SL1200_.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0DVYS31XD?tag=tinystepsliv-20",
+    "description": "A top-rated OLAKIDS 7-in-1 Climber designed for screen-free toddler development.",
+    "bullets": [
+      "Fosters screen-free hands-on exploration",
+      "Durable, non-toxic heirloom quality construction",
+      "Loved by toddlers and verified by parents"
     ]
   }
 ];
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { PRODUCTS };
+}
