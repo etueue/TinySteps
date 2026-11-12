@@ -1,0 +1,277 @@
+======================================================================
+📌 GOOGLE FLOW PROMPT PACKAGE — DAY #6 (TINYSTEPS)
+======================================================================
+ARTICLE TITLE       : 10 Best Magnetic Tiles & Building Sets for Toddlers Ranked
+TARGET URL          : https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/
+PINTEREST BOARD     : Open-Ended Toys
+AESTHETIC STYLE     : Warm Toddler Nursery Editorial (Soft Terracotta, Sage & Warm Linen)
+CANVAS RATIO        : 3:4 aspect ratio (1200x1600)
+FORMULA             : Benefit-Driven / Outcome Hook (Pain Point -> Desired Result)
+PRODUCT ACCURACY    : CRITICAL INSTRUCTION: Product Consistency Lock Active
+CUTOUT DIRECTORY    : C:\backup\Amazon TS\flow_batches\magnetic-tiles-comparison-guide
+======================================================================
+
+----------------------------------------------------------------------
+PIN #1: [MANDATORY SOP] MULTI-PRODUCT ROUNDUP PIN (10 MAGNETIC TILES RANKED)
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/
+IMAGE TYPE     : Multi-Product Editorial Roundup (3–4 products in 1 image)
+REFERENCE FILES:
+  1. 1_B000CBSNRY_magna_tiles_classic_set_cutout.png (Magna-Tiles Classic 100pc)
+  2. 2_B0CX4RLCXW_micromags_travel_set_cutout.png (microMAGS Travel Set)
+  3. 3_B08R3TW6PD_coodoo_magnetic_blocks_cutout.png (Coodoo Magnetic Blocks)
+  4. 7_B0GVN7TB59_massive_fortress_set_cutout.png (Massive Fortress Set)
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly composite the 4 EXACT products from the attached transparent cutout PNG files together onto a warm, clean birch playroom table or cozy cream linen play mat. DO NOT modify, alter, distort, redraw, or hallucinate different toys. Maintain 100% fidelity to the actual products shown in the cutouts.
+
+GOOGLE FLOW PROMPT:
+A high-converting vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). High-end Scandinavian parenting lifestyle photography. A beautifully styled, warm flat lay arrangement on a clean natural cream linen surface (#FFFDF9) with soft morning window sunlight casting gentle colorful glass-like shadows. Four premium, translucent magnetic building tile sets are neatly clustered: a tall vibrant geometric tower made of classic riveted magnetic tiles, a compact pocket-sized travel magnetic tin with mini tiles, a colorful flat array of budget-friendly magnetic blocks, and an intricate castle gate structure. Completely serene, clutter-free, and intentional. Warm soothing toddler aesthetic with soft terracotta (#E26D5C), calming sage (#7D9D8B), and warm natural wood tones. Editorial magazine catalog lighting, sharp tactile translucent textures, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Headline (Large bold serif, soft charcoal #2B2D42):
+  "10 BEST MAGNETIC TILES & BUILDING SETS FOR TODDLERS RANKED"
+- Sub-Badge / Pill (Rounded pill, warm terracotta #E26D5C with white bold text):
+  "MONTESSORI APPROVED"
+- Footer Watermark (Centered, refined sans-serif, muted grey):
+  "thetinysteps.pages.dev"
+
+----------------------------------------------------------------------
+PIN #2: PRODUCT #1 — MAGNA-TILES CLASSIC 100-PIECE MAGNETIC CONSTRUCTION SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B000CBSNRY
+AFFILIATE LINK : https://www.amazon.com/dp/B000CBSNRY?tag=tinystepsliv-20
+COPY ANGLE     : Investasi Mainan Awet
+REFERENCE FILE : 1_B000CBSNRY_magna_tiles_classic_set_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (1_B000CBSNRY_magna_tiles_classic_set_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '1_B000CBSNRY_magna_tiles_classic_set_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "STOP BUYING FLIMSY TILES: THE ORIGINAL REINFORCED RIVETS"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ SAFETY RIVETED DESIGN ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Sonic-Welded Food-Grade Plastic • Strong Ceramic Magnets"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #3: PRODUCT #2 — MAGNA-TILES MICROMAGS 26-PIECE TRAVEL SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B0CX4RLCXW
+AFFILIATE LINK : https://www.amazon.com/dp/B0CX4RLCXW?tag=tinystepsliv-20
+COPY ANGLE     : Screen-Free & Ketenangan
+REFERENCE FILE : 2_B0CX4RLCXW_micromags_travel_set_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (2_B0CX4RLCXW_micromags_travel_set_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '2_B0CX4RLCXW_micromags_travel_set_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "THE ONLY AIRPLANE TOY THAT FITS IN YOUR PURSE"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ 75% SMALLER FOOTPRINT ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Compact Travel Magnetic Case • Zero Screen Time"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #4: PRODUCT #3 — COODOO UPGRADED MAGNETIC BUILDING BLOCKS SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B08R3TW6PD
+AFFILIATE LINK : https://www.amazon.com/dp/B08R3TW6PD?tag=tinystepsliv-20
+COPY ANGLE     : Investasi Mainan Awet
+REFERENCE FILE : 3_B08R3TW6PD_coodoo_magnetic_blocks_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (3_B08R3TW6PD_coodoo_magnetic_blocks_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '3_B08R3TW6PD_coodoo_magnetic_blocks_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "ALL THE MAGNETIC FUN AT A FRACTION OF THE PRICE"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ BUDGET FRIENDLY STEM ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Smooth Rounded Edges • High Compatibility Build"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #5: PRODUCT #4 — COSSY STEM MAGNETIC TILES 120-PIECE SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B0BTK8ZQCD
+AFFILIATE LINK : https://www.amazon.com/dp/B0BTK8ZQCD?tag=tinystepsliv-20
+COPY ANGLE     : Perkembangan Anak / Solusi Tantrum
+REFERENCE FILE : 4_B0BTK8ZQCD_cossy_stem_tiles_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (4_B0BTK8ZQCD_cossy_stem_tiles_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '4_B0BTK8ZQCD_cossy_stem_tiles_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "BUILD TOWERS HIGHER WITHOUT SUDDEN COLLAPSES"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ STRONG EDGE MAGNETS ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Reinforced Cross-Lattice • Vivid Translucent Tones"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #6: PRODUCT #5 — LITTLEVO STEM 3D GEOMETRIC MAGNETIC TILES
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B0DJKVPGZF
+AFFILIATE LINK : https://www.amazon.com/dp/B0DJKVPGZF?tag=tinystepsliv-20
+COPY ANGLE     : Practical Life / Kemandirian
+REFERENCE FILE : 5_B0DJKVPGZF_littlevo_stem_tiles_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (5_B0DJKVPGZF_littlevo_stem_tiles_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '5_B0DJKVPGZF_littlevo_stem_tiles_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "TEACH 3D SPATIAL LOGIC NATURALLY WITHOUT AN IPAD"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ NO IPAD NEEDED ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Geometric Shape Sorter • Sensory Light Refraction"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #7: PRODUCT #6 — SMALL CASTLE BEGINNER MAGNETIC TILES SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B09LY1LNGJ
+AFFILIATE LINK : https://www.amazon.com/dp/B09LY1LNGJ?tag=tinystepsliv-20
+COPY ANGLE     : Practical Life / Kemandirian
+REFERENCE FILE : 6_B09LY1LNGJ_beginner_castle_tiles_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (6_B09LY1LNGJ_beginner_castle_tiles_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '6_B09LY1LNGJ_beginner_castle_tiles_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "HOW A 2-YEAR-OLD LEARNS INDEPENDENT CREATIVITY"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ SCREEN-FREE FOCUS ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Chunky Toddler-Safe Tiles • Easy Click-Together Play"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #8: PRODUCT #7 — MASSIVE ARCHITECTURAL FORTRESS MAGNETIC SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B0GVN7TB59
+AFFILIATE LINK : https://www.amazon.com/dp/B0GVN7TB59?tag=tinystepsliv-20
+COPY ANGLE     : Screen-Free & Ketenangan
+REFERENCE FILE : 7_B0GVN7TB59_massive_fortress_set_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (7_B0GVN7TB59_massive_fortress_set_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '7_B0GVN7TB59_massive_fortress_set_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "HOW TO GET 60 MINUTES OF QUIET INDEPENDENT PLAY"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ HOURS OF SERENE FOCUS ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Architectural Columns, Windows & Rolling Vehicles"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #9: PRODUCT #8 — COLLABORATIVE SIBLING PLAY MAGNETIC TILES SET
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B0BRCHPHXJ
+AFFILIATE LINK : https://www.amazon.com/dp/B0BRCHPHXJ?tag=tinystepsliv-20
+COPY ANGLE     : Perkembangan Anak / Solusi Tantrum
+REFERENCE FILE : 8_B0BRCHPHXJ_collaborative_play_tiles_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (8_B0BRCHPHXJ_collaborative_play_tiles_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '8_B0BRCHPHXJ_collaborative_play_tiles_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "TIRED OF SIBLING FIGHTS? TRY THIS COLLABORATIVE TOY"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ PEACEFUL SHARING ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Abundant Building Pieces • Zero Sharing Meltdowns"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #10: PRODUCT #9 — MULTI-STAGE GROW-WITH-ME MAGNETIC TILES
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B09Q14C3N6
+AFFILIATE LINK : https://www.amazon.com/dp/B09Q14C3N6?tag=tinystepsliv-20
+COPY ANGLE     : Investasi Mainan Awet
+REFERENCE FILE : 9_B09Q14C3N6_multi_stage_magnetic_tile_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (9_B09Q14C3N6_multi_stage_magnetic_tile_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '9_B09Q14C3N6_multi_stage_magnetic_tile_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "1 TOY THAT GROWS WITH YOUR CHILD FROM AGE 2 TO 7"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ LONG-TERM VALUE ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Open-Ended Engineering • Expands With Child Skills"
+- Footer:
+  "TinySteps Living"
+
+----------------------------------------------------------------------
+PIN #11: PRODUCT #10 — MAGNA-TILES MICRO & CLASSIC COMBO PACK
+----------------------------------------------------------------------
+DESTINATION URL: https://thetinysteps.pages.dev/blog/magnetic-tiles-comparison-guide/#item-B0CX4GPHWW
+AFFILIATE LINK : https://www.amazon.com/dp/B0CX4GPHWW?tag=tinystepsliv-20
+COPY ANGLE     : Screen-Free & Ketenangan
+REFERENCE FILE : 10_B0CX4GPHWW_magna_tiles_micro_combo_cutout.png
+
+CRITICAL INSTRUCTION (PRODUCT CONSISTENCY LOCK):
+Seamlessly place and composite the EXACT product from the attached cutout image (10_B0CX4GPHWW_magna_tiles_micro_combo_cutout.png) into the scene. DO NOT modify, redraw, redesign, or hallucinate the product. Keep all colors, textures, materials, and parts 100% identical to the reference cutout image.
+
+GOOGLE FLOW PROMPT:
+A vertical Pinterest pin image in 3:4 aspect ratio (1200x1600). A bright, airy toddler playroom shot bathed in gentle morning sunlight. The exact product from reference cutout '10_B0CX4GPHWW_magna_tiles_micro_combo_cutout.png' is resting neatly on a low light-birch Montessori child table or cozy cream linen floor mat. In the soft-focus background, a peaceful toddler's small hands are engaged in quiet, screen-free tactile exploration and geometric building. Soothing color harmony featuring warm cream (#FFFDF9), earthy terracotta (#E26D5C), and soft sage green (#7D9D8B). Calm, clutter-free, mindful play atmosphere. High-end Scandinavian family editorial photography, sharp tactile materials, 8k resolution.
+
+TEXT OVERLAY INSTRUCTIONS:
+- Line 1 (The Hook / Outcome Promise - Bold Upper Serif, Soft Charcoal #2B2D42):
+  "DINNER OUT IN PEACE: THE SCREEN-FREE ESSENTIAL"
+- Line 2 / Pill Badge (Pill with rounded corners, #E26D5C background, crisp white bold text):
+  "[ POCKET-SIZED CREATIVITY ]"
+- Line 3 (Optional Small Detail - Refined Muted Sans-Serif #5C677D):
+  "Micro & Classic Magnetic Interlock • Ultra-Portable"
+- Footer:
+  "TinySteps Living"
